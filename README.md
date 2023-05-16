@@ -2,21 +2,20 @@
 - Student Draghia Maria Cristiana 
 - grupa 1119
 
-In cadrul priectului am creat o aplicatie ce consta intr-o aplicatie care isi propune sa faciliteze gestionarea unui magazin de bijuterii. Aplicatia permite afisarea unui catalog de produse, fiecare articol avand informatii despre tipul de metal din care este confectionat si pretul acestuia.
 
 
 
-- link video- prezentare proiect
+https://youtu.be/NEKY90-YlIY
+https://proiect-cbdkaoqo5-cristiana24.vercel.app
 
-- link publicare
 
 ## 1. Introducere
-In cadrul priectului am creat o aplicatie ce consta intr-o aplicatie care isi propune sa faciliteze gestionarea unui magazin de bijuterii. Aplicatia permite afisarea unui catalog de produse, fiecare articol avand informatii despre tipul de metal din care este confectionat si pretul acestuia.
+In cadrul priectului am creat o aplicatie ce consta in facilitarea gestionarii unui magazin de bijuterii. Aplicatia permite afisarea unui catalog de produse, fiecare articol avand informatii despre tipul de metal din care este confectionat si pretul acestuia.
 
-2.  Descriere problemă 
+##2.  Descriere problemă 
 Aplicatia  este utila pentru ca are ca scop reducerea efortului de creaa un catalog al produselor pe care magazinul le furnizeaza in functie de caracteristicile acestora.
 
-3. Descriere API 
+##3. Descriere API 
 Aplicatia foloseste o baza de date MongoDB pentru a-si stoca datele
 ![image](https://github.com/Cristiana24/proiect/assets/133686774/6b45b7de-c749-49c9-8f97-e13e6f21853b)
 
@@ -36,7 +35,7 @@ Totodata aplicatia prezinta si o functionalitate de a cauta informatii despre bi
 ![image](https://github.com/Cristiana24/proiect/assets/133686774/e4f4815b-3a3d-4d8d-84a3-3690ae75f174)
 
 
-4. Flux de date 
+##4. Flux de date 
 
 Avem request uri de tip GET
 ![image](https://github.com/Cristiana24/proiect/assets/133686774/97d63692-9bee-4f23-983a-9d2e881431b3)
@@ -48,9 +47,9 @@ Si request uri de tip DELETE
 ![image](https://github.com/Cristiana24/proiect/assets/133686774/2ce38ca6-83ae-45ff-b23a-c90081f924e4)
 
 
-5. Capturi ecran aplicație 
+##5. Capturi ecran aplicație 
 Capturile de ecran au fost inserate la punctele anterioare
 
-6. Referințe
+##6. Referințe
 https://github.com/guritaalexandru/cc-next-2
 https://gurita-alexandru.gitbook.io/cloud-computing-2023-simpre/
